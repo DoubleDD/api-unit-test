@@ -1,0 +1,117 @@
+{
+  "rows": [
+    {
+      "fields": [
+        {
+          "name": "int_loc_div_code",
+          "value": "620102000000"
+        },
+        {
+          "name": "wat_usage_des_code",
+          "value": "002,"
+        },
+        {
+          "name": "remark",
+          "value": ""
+        },
+        {
+          "name": "intaking_type",
+          "value": "水资源配置,"
+        },
+        {
+          "name": "pro_nature",
+          "value": ""
+        },
+        {
+          "name": "int_location",
+          "value": "天庆大道"
+        },
+        {
+          "name": "apply_id",
+          "value": "ac3cd6ea308a45ed9778730763b1d5bc"
+        },
+        {
+          "name": "wat_t_amnt_zb",
+          "value": "0"
+        },
+        {
+          "name": "id",
+          "value": "cc8ac5cc137845f4894160cbee8e9e71"
+        },
+        {
+          "name": "wat_usage_des",
+          "value": "原水供水,"
+        },
+        {
+          "name": "wat_t_amnt_s",
+          "value": "10"
+        },
+        {
+          "name": "guarantee_rate",
+          "value": ""
+        },
+        {
+          "name": "wat_t_amnt_hdn",
+          "value": "0"
+        },
+        {
+          "name": "wat_t_amnt_szy",
+          "value": "10"
+        },
+        {
+          "name": "wat_t_amnt_g",
+          "value": "0"
+        },
+        {
+          "name": "pro_code",
+          "value": ""
+        },
+        {
+          "name": "first_fz_date",
+          "value": "2022-06-24"
+        },
+        {
+          "name": "wat_t_amnt_jc",
+          "value": "0"
+        },
+        {
+          "name": "fz_date",
+          "value": "2022-06-24"
+        },
+        {
+          "name": "qs_cycle_type",
+          "value": "1"
+        },
+        {
+          "name": "yzj_code",
+          "value": ""
+        },
+        {
+          "name": "wat_t_amnt",
+          "value": "10"
+        },
+        {
+          "name": "int_word",
+          "value": ""
+        },
+        {
+          "name": "intaking_type_code",
+          "value": "1"
+        },
+        {
+          "name": "use_code",
+          "value": "007"
+        },
+        {
+          "name": "pro_name",
+          "value": "取水项目测试"
+        },
+        {
+          "name": "wat_sou_des",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "tableName": "qs_apply_lic_view"
+}

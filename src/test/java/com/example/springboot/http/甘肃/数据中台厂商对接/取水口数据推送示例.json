@@ -1,0 +1,262 @@
+{
+  "rows": [
+    {
+      "fields": {
+        "AUDIT_STATE_TOTAL": "1",
+        "MGR_PER": "贾广钰",
+        "SUB_PER": "杨志成",
+        "SUB_TEL": "13830086119",
+        "TB_TYPE": "101",
+        "YYYY": 2020,
+        "PERIOD_WAT": 0,
+        "STS_PER": "王建礼",
+        "WAT": 769.3894,
+        "WAT_O": 0,
+        "WAT_P": 0,
+        "QUARTER": 1,
+        "SUBMIT_DATE": "2020-09-09 00:00:00",
+        "WAT_S": 769.3894,
+        "ML_ID": "ddde593d6e844c08bb187aca05cfb4db_620000",
+        "WAT_G": 0,
+        "ID": "0909fb8d7fcc406eb31d26e1d9f6e094"
+      }
+    },
+    {
+      "fields": {
+        "AUDIT_STATE_TOTAL": "1",
+        "MGR_PER": "董志勇",
+        "SUB_PER": "王文海",
+        "SUB_TEL": "13993594678",
+        "TB_TYPE": "101",
+        "YYYY": 2020,
+        "PERIOD_WAT": 0,
+        "STS_PER": "王文海",
+        "WAT": 10572.47,
+        "WAT_O": 0,
+        "WAT_P": 0,
+        "QUARTER": 4,
+        "SUBMIT_DATE": "2020-12-30 00:00:00",
+        "WAT_S": 9668.88,
+        "ML_ID": "165f0b28c2214b90aedf96eb35c0fa29_620000",
+        "WAT_G": 903.59,
+        "ID": "bcd4d890aa42414693583d9b1c4beb3c"
+      }
+    },
+    {
+      "fields": {
+        "AUDIT_STATE_TOTAL": "1",
+        "MGR_PER": "贾广钰",
+        "SUB_PER": "杨志成",
+        "SUB_TEL": "13830086119",
+        "TB_TYPE": "101",
+        "YYYY": 2020,
+        "PERIOD_WAT": 0,
+        "STS_PER": "王建礼",
+        "WAT": 14931.7171,
+        "WAT_O": 0,
+        "WAT_P": 0,
+        "QUARTER": 3,
+        "SUBMIT_DATE": "2020-11-10 00:00:00",
+        "WAT_S": 14931.7171,
+        "ML_ID": "ddde593d6e844c08bb187aca05cfb4db_620000",
+        "WAT_G": 0,
+        "ID": "a92f53a9d6f4488395240b5ac1878a81"
+      }
+    },
+    {
+      "fields": {
+        "AUDIT_STATE_TOTAL": "1",
+        "MGR_PER": "刘有成",
+        "SUB_PER": "柴鹏",
+        "SUB_TEL": "15809351555",
+        "TB_TYPE": "101",
+        "YYYY": 2020,
+        "PERIOD_WAT": 0,
+        "STS_PER": "柴鹏",
+        "WAT": 2918.322,
+        "WAT_O": 0,
+        "WAT_P": 0,
+        "QUARTER": 1,
+        "SUBMIT_DATE": "2021-02-01 00:00:00",
+        "WAT_S": 2912.172,
+        "ML_ID": "a819df914d4a4391930d801091c79184_620000",
+        "WAT_G": 6.15,
+        "ID": "fedcf94261384766adee86da06fdbf95"
+      }
+    },
+    {
+      "fields": {
+        "AUDIT_STATE_TOTAL": "1",
+        "MGR_PER": "刘有成",
+        "SUB_PER": "柴鹏",
+        "SUB_TEL": "15809351555",
+        "TB_TYPE": "101",
+        "YYYY": 2020,
+        "PERIOD_WAT": 0,
+        "STS_PER": "柴鹏",
+        "WAT": 10506.494,
+        "WAT_O": 0,
+        "WAT_P": 0,
+        "QUARTER": 3,
+        "SUBMIT_DATE": "2021-02-01 00:00:00",
+        "WAT_S": 9809.575,
+        "ML_ID": "a819df914d4a4391930d801091c79184_620000",
+        "WAT_G": 696.919,
+        "ID": "d95cf84e76e942938bbfe2c3207efd89"
+      }
+    },
+    {
+      "fields": {
+        "AUDIT_STATE_TOTAL": "1",
+        "MGR_PER": "董志勇",
+        "SUB_PER": "王文海",
+        "SUB_TEL": "13993594678",
+        "TB_TYPE": "101",
+        "YYYY": 2020,
+        "PERIOD_WAT": 0,
+        "STS_PER": "王文海",
+        "WAT": 5153.4,
+        "WAT_O": 0,
+        "WAT_P": 0,
+        "QUARTER": 2,
+        "SUBMIT_DATE": "2020-11-13 00:00:00",
+        "WAT_S": 4756.1,
+        "ML_ID": "165f0b28c2214b90aedf96eb35c0fa29_620000",
+        "WAT_G": 397.3,
+        "ID": "2b148b9f75f14552bd7abeeae9ccf932"
+      }
+    },
+    {
+      "fields": {
+        "AUDIT_STATE_TOTAL": "1",
+        "MGR_PER": "刘有成",
+        "SUB_PER": "柴鹏",
+        "SUB_TEL": "15809351555",
+        "TB_TYPE": "101",
+        "YYYY": 2020,
+        "PERIOD_WAT": 0,
+        "STS_PER": "柴鹏",
+        "WAT": 6994.995,
+        "WAT_O": 0,
+        "WAT_P": 0,
+        "QUARTER": 2,
+        "SUBMIT_DATE": "2021-02-01 00:00:00",
+        "WAT_S": 6657.995,
+        "ML_ID": "a819df914d4a4391930d801091c79184_620000",
+        "WAT_G": 337,
+        "ID": "62712c7ec5054b0db4e79857696aa6ae"
+      }
+    },
+    {
+      "fields": {
+        "AUDIT_STATE_TOTAL": "1",
+        "MGR_PER": "董志勇",
+        "SUB_PER": "王文海",
+        "SUB_TEL": "13993594678",
+        "TB_TYPE": "101",
+        "YYYY": 2020,
+        "PERIOD_WAT": 0,
+        "STS_PER": "王文海",
+        "WAT": 65.6,
+        "WAT_O": 0,
+        "WAT_P": 0,
+        "QUARTER": 1,
+        "SUBMIT_DATE": "2020-11-13 00:00:00",
+        "WAT_S": 0,
+        "ML_ID": "165f0b28c2214b90aedf96eb35c0fa29_620000",
+        "WAT_G": 65.6,
+        "ID": "c374692debd8450fb79decd65a6b7594"
+      }
+    },
+    {
+      "fields": {
+        "AUDIT_STATE_TOTAL": "1",
+        "MGR_PER": "董志勇",
+        "SUB_PER": "王文海",
+        "SUB_TEL": "13993594678",
+        "TB_TYPE": "101",
+        "YYYY": 2020,
+        "PERIOD_WAT": 0,
+        "STS_PER": "王文海",
+        "WAT": 7497.6,
+        "WAT_O": 0,
+        "WAT_P": 0,
+        "QUARTER": 3,
+        "SUBMIT_DATE": "2020-11-13 00:00:00",
+        "WAT_S": 6756,
+        "ML_ID": "165f0b28c2214b90aedf96eb35c0fa29_620000",
+        "WAT_G": 741.6,
+        "ID": "ad49eb40213d43448d17482d026530b6"
+      }
+    },
+    {
+      "fields": {
+        "AUDIT_STATE_TOTAL": "1",
+        "MGR_PER": "董志勇",
+        "SUB_PER": "王文海",
+        "SUB_TEL": "13993594678",
+        "TB_TYPE": "101",
+        "YYYY": 2020,
+        "PERIOD_WAT": 0,
+        "STS_PER": "王文海",
+        "WAT": 7497.6,
+        "WAT_O": 0,
+        "WAT_P": 0,
+        "QUARTER": 3,
+        "SUBMIT_DATE": "2020-11-13 00:00:00",
+        "WAT_S": 6756,
+        "ML_ID": "165f0b28c2214b90aedf96eb35c0fa29_620000",
+        "WAT_G": 741.6,
+        "ID": "ad49eb40213d43448d17482d026530b6"
+      }
+    },
+    {
+      "fields": {
+        "AUDIT_STATE_TOTAL": "1",
+        "MGR_PER": "贾广钰",
+        "SUB_PER": "杨志成",
+        "SUB_TEL": "13830086119",
+        "TB_TYPE": "101",
+        "YYYY": 2020,
+        "PERIOD_WAT": 0,
+        "REMARKS": "不通过。\n数据错，单位要求退回",
+        "STS_PER": "王建礼",
+        "WAT": 6903.567,
+        "WAT_O": 0,
+        "WAT_P": 0,
+        "QUARTER": 2,
+        "SUBMIT_DATE": "2020-09-09 00:00:00",
+        "WAT_S": 6903.567,
+        "ML_ID": "ddde593d6e844c08bb187aca05cfb4db_620000",
+        "WAT_G": 0,
+        "ID": "97bbfe3061d94fbc8feab48b1c0d1a69"
+      }
+    },
+    {
+      "fields": {
+        "AUDIT_STATE_TOTAL": "1",
+        "MGR_PER": "贾广钰",
+        "SUB_PER": "杨志成",
+        "SUB_TEL": "13830086119",
+        "TB_TYPE": "101",
+        "YYYY": 2020,
+        "PERIOD_WAT": 0,
+        "REMARKS": "不通过。\n数据错，单位要求退回",
+        "STS_PER": "王建礼",
+        "WAT": 6903.567,
+        "WAT_O": 0,
+        "WAT_P": 0,
+        "QUARTER": 2,
+        "SUBMIT_DATE": "2020-09-09 00:00:00",
+        "WAT_S": 6903.567,
+        "ML_ID": "ddde593d6e844c08bb187aca05cfb4db_620000",
+        "WAT_G": 0,
+        "ID": "97bbfe3061d94fbc8feab48b1c0d1a69"
+      }
+    }
+  ],
+  "tableName": "wrtj_tb_all",
+  "pages": 2,
+  "pageNum": 1,
+  "pageSize": 20
+}

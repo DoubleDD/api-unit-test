@@ -1,0 +1,23 @@
+{
+  "CONFIG": {
+    "description": "----------------所有的占位符的值都将从这个config中获取，如果是字符串，那就直接用；如果占位符获取到的是对象，那么根据对象的描述进行对应的处理，比如加密",
+    "AppKey": {
+      "value": "204037384"
+    },
+    "AppCode": {
+      "value": "960da27a7b1146a6b9a2675df82161b3"
+    },
+    "AppSecret": {
+      "value": "mBC2dXodg5ON7VMPrmK1qDyW68MMQzBb"
+    }
+  },
+  "description": "通过第三方接口获取token的配置，第二版，所有的配置全部采用 {description:'',value:''} 这种带描述形式的配置",
+  "version": 2,
+  "COMMON_HEADER": {
+    "Authorization": {
+      "description": "身份凭证",
+      "value": "APPCODE ${AppCode}"
+    },
+    "description": "------------------------------------公共请求头"
+  }
+}

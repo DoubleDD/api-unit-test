@@ -1,0 +1,119 @@
+{
+  "Bat": "4.1V",
+  "McuId": 902,
+  "Model": "MCU-32",
+  "WatchTime": 1591531800,
+  "datas": [
+    {
+      "ch": 1,
+      "chdata": [
+        {
+          "dataid": 1,
+          "sid": "test1x",
+          "stype": "ys倾斜",
+          "unit": "°",
+          "value": "0"
+        },
+        {
+          "dataid": 2,
+          "sid": "test1y",
+          "stype": "ys倾斜",
+          "unit": "°",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "ch": 2,
+      "chdata": [
+        {
+          "dataid": 1,
+          "sid": "test2x",
+          "stype": "ys倾斜",
+          "unit": "°",
+          "value": "0"
+        },
+        {
+          "dataid": 2,
+          "sid": "test2y",
+          "stype": "ys倾斜",
+          "unit": "°",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "ch": 3,
+      "chdata": [
+        {
+          "dataid": 1,
+          "sid": "cj0",
+          "stype": "ys磁尺",
+          "unit": "mm",
+          "value": "290.174"
+        }
+      ]
+    },
+    {
+      "ch": 4,
+      "chdata": [
+        {
+          "dataid": 1,
+          "sid": "cj1",
+          "stype": "ys磁尺",
+          "unit": "mm",
+          "value": "272.414"
+        }
+      ]
+    },
+    {
+      "ch": 5,
+      "chdata": [
+        {
+          "dataid": 1,
+          "sid": "cj2",
+          "stype": "ys磁尺",
+          "unit": "mm",
+          "value": "257.268"
+        }
+      ]
+    },
+    {
+      "ch": 6,
+      "chdata": [
+        {
+          "dataid": 1,
+          "sid": "cj3",
+          "stype": "ys磁尺",
+          "unit": "mm",
+          "value": "244.079"
+        }
+      ]
+    },
+    {
+      "ch": 7,
+      "chdata": [
+        {
+          "dataid": 1,
+          "sid": "cj4",
+          "stype": "ys磁尺",
+          "unit": "mm",
+          "value": "297.502"
+        }
+      ]
+    },
+    {
+      "ch": 8,
+      "chdata": [
+        {
+          "dataid": 1,
+          "sid": "cj5",
+          "stype": "ys磁尺",
+          "unit": "mm",
+          "value": "55.4287"
+        }
+      ]
+    }
+  ],
+  "factory": "南京峟思工程仪器有限公司"
+}

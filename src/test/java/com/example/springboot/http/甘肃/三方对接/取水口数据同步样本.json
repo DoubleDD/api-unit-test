@@ -1,0 +1,142 @@
+{
+  "rows": [
+    {
+      "fields": [
+        {
+          "name": "ID",
+          "value": "VARCHAR(40) NOT NULL COMMENT '物理键ID'"
+        },
+        {
+          "name": "SSXMID",
+          "value": "VARCHAR(40) COMMENT '所属项目ID'"
+        },
+        {
+          "name": "QSKBH",
+          "value": "VARCHAR(50) COMMENT '取水口编号'"
+        },
+        {
+          "name": "QSKMC",
+          "value": "VARCHAR(200) COMMENT '取水口名称'"
+        },
+        {
+          "name": "SSXZQHDM",
+          "value": "VARCHAR(40) COMMENT '所属行政区划(到县)'"
+        },
+        {
+          "name": "SZXZ",
+          "value": "VARCHAR(200) COMMENT '所在乡镇'"
+        },
+        {
+          "name": "JD",
+          "value": "VARCHAR(100) COMMENT '取水口经度'"
+        },
+        {
+          "name": "WD",
+          "value": "VARCHAR(100) COMMENT '取水口纬度'"
+        },
+        {
+          "name": "QSGCLX",
+          "value": "VARCHAR(50) COMMENT '取水工程类型'"
+        },
+        {
+          "name": "ZDQSLL",
+          "value": "DECIMAL(12,3) COMMENT '最大取水流量(立方米每秒)'"
+        },
+        {
+          "name": "RZDQSL",
+          "value": "DECIMAL(10,4) COMMENT '日最大取水量(千立方米每天)'"
+        },
+        {
+          "name": "JSYXZT",
+          "value": "VARCHAR(100) COMMENT '建设运行状态'"
+        },
+        {
+          "name": "SYLX",
+          "value": "VARCHAR(200) COMMENT '水源类型'"
+        },
+        {
+          "name": "SYMC",
+          "value": "VARCHAR(400) COMMENT '取水水源名称'"
+        },
+        {
+          "name": "SZYYJQ",
+          "value": "VARCHAR(200) COMMENT '水资源一级区'"
+        },
+        {
+          "name": "SZYEJQ",
+          "value": "VARCHAR(200) COMMENT '水资源二级区'"
+        },
+        {
+          "name": "SZYSJQ",
+          "value": "VARCHAR(200) COMMENT '水资源三级区'"
+        },
+        {
+          "name": "SFAZJCJLSS",
+          "value": "VARCHAR(10) COMMENT '是否安装监测计量设施'"
+        },
+        {
+          "name": "JCJLSSLX",
+          "value": "VARCHAR(100) COMMENT '监测计量设施类型'"
+        },
+        {
+          "name": "JCJLSSSFZCYX",
+          "value": "VARCHAR(10) COMMENT '监测计量设施是否正常运行'"
+        },
+        {
+          "name": "SFSXZXJC",
+          "value": "VARCHAR(10) COMMENT '是否实现在线监测'"
+        },
+        {
+          "name": "SFDQJDHJZ",
+          "value": "VARCHAR(10) COMMENT '是否定期检定或核准'"
+        },
+        {
+          "name": "SFDKDJ",
+          "value": "VARCHAR(10) COMMENT '是否打捆登记'"
+        },
+        {
+          "name": "QSKSL",
+          "value": "INT(5) COMMENT '取水口数量'"
+        },
+        {
+          "name": "CJSJ",
+          "value": "DATETIME COMMENT '创建时间'"
+        },
+        {
+          "name": "ZHGXSJ",
+          "value": "DATETIME COMMENT '最后更新时间'"
+        },
+        {
+          "name": "SZYFQDM",
+          "value": "VARCHAR(100) COMMENT '水资源三级区代码'"
+        },
+        {
+          "name": "SSLYDM",
+          "value": "VARCHAR(40) COMMENT '水资源一级区代码'"
+        },
+        {
+          "name": "SFBJSC",
+          "value": "TINYINT(1) COMMENT '是否标记删除'"
+        },
+        {
+          "name": "QSKJBXXBZ",
+          "value": "VARCHAR(1000) COMMENT '取水口基本信息备注'"
+        },
+        {
+          "name": "JCJLBZ",
+          "value": "VARCHAR(1000) COMMENT '监测计量设施备注'"
+        },
+        {
+          "name": "PXH",
+          "value": "VARCHAR(20) COMMENT '排序号'"
+        },
+        {
+          "name": "SFYDSGC",
+          "value": "VARCHAR(10) COMMENT '是否引调水工程'"
+        }
+      ]
+    }
+  ],
+  "tableName": "V_SYN_JS_B_QSKJBXX"
+}
+

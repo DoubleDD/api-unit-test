@@ -1,0 +1,63 @@
+spring:
+  application:
+    name: spring-boot
+  main:
+    allow-circular-references: true
+  servlet:
+    multipart:
+      #限制报文大小，post请求大小限制,undertow里的设置不会生效
+      max-request-size: 200MB
+      max-file-size: 500MB
+  mvc:
+    async:
+      # 异步执行请求超时时长（毫秒）
+      request-timeout: 60000
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+
+# 服务基础配置
+server:
+  port: 8080
+  shutdown: graceful
+  servlet:
+    context-path: /${spring.application.name}
+  forward-headers-strategy: framework
+  tomcat:
+    threads:
+      min-spare: 10
+      max: 200
+    maxConnections: 8192
+    acceptCount: 100
+    connection-timeout: 5000
+
+management:
+  #  server:
+  #    port: 8689
+  metrics:
+    tags:
+      application: ${spring.application.name}
+      version: ${project.version}
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-details: always
+  health:
+    defaults:
+      enabled: false
+    diskspace:
+      enabled: true
+
+logging:
+  config: classpath:logback-spring.xml
+  level:
+    root: debug
+    org.springframework.cache: INFO
+    com.keeton:
+  loki:
+    server: http://127.0.0.1:3100
+
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.keeton.spring.custom.annotation.TestMapper">
+
+    <sql id="Base_Column_List">
+        id, register_id, user_name, gender, birth_time, work_time, original_position, appoint_time,
+        execute_time, approver, create_time, create_by, update_time, update_by, bef_change_title, aft_grade,
+        aft_grade_wages, add_wages
+    </sql>
+
+    <select id="selectByPrimaryKey" resultType="java.util.Map">
+        select
+        <include refid="Base_Column_List"/>
+        from yl_audit_five_years_promotion
+        where user_name = #{name} and gender = #{gender}
+    </select>
+
+
+</mapper>

@@ -1,0 +1,24 @@
+[
+  {
+    "reservoir_id": "123",
+    "reservoir_name": "水库",
+    "station_code": "abc",
+    "station_name": "测站",
+    "factor_name": "水位",
+    "item_name": "水位",
+    "item_unit": "米",
+    "item_value": "102",
+    "item_time": "1684404641"
+  },
+  {
+    "reservoir_id": "1234",
+    "reservoir_name": "水库2",
+    "station_code": "abc2",
+    "station_name": "测站2",
+    "factor_name": "水位2",
+    "item_name": "水位2",
+    "item_unit": "米",
+    "item_value": "103",
+    "item_time": "1684404641"
+  }
+]
